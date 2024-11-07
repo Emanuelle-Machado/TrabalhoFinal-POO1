@@ -1,2 +1,3 @@
-# TrabalhoFinal-POO1
-trabalho para a matéria de Programação Orientada a Objetos 1 (feito em 2023/1)
+# Confeitaria
+
+Simulação de um sistema administrativo de uma confeitaria para vendedores.
