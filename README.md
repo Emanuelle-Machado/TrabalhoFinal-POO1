@@ -20,7 +20,6 @@ Possui cadastro e login.
 
 [Documentação Sistema POO1.pdf](https://github.com/user-attachments/files/17670719/Documentacao.Sistema.POO1.pdf)
 
-## Aprendizados
 
 
 
